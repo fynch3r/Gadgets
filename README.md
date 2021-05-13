@@ -5,7 +5,7 @@
 目前支持：
 1. URLDNS
 2. CC1_TransformedMap
-3. CC1_LazyMqp
+3. CC1_LazyMap
 
 
 
