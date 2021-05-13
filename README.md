@@ -4,4 +4,9 @@
 
 目前支持：
 1. URLDNS
-2. 
+2. CC1_TransformedMap
+3. CC1_LazyMqp
+
+
+
+梳理不易，欢迎issue & follow & star ！ 
