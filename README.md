@@ -6,6 +6,8 @@
 1. URLDNS
 2. CC1_TransformedMap
 3. CC1_LazyMap
+4. CC2_TransformingComparator
+5. CC2_TemplatesImpl
 
 
 
