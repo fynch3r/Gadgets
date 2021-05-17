@@ -15,7 +15,7 @@
 - CC5_InstantiateTransformer
 - CC6_HashMap
 - CC6_InstantiateTransformer
-- CC6_HashMap
+- CC6_TemplatesImpl
 - CC7_Hashtable
 - CC7_InstantiateTransformer
 
