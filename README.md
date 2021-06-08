@@ -23,3 +23,8 @@
 
 
 梳理不易，欢迎issue & follow & star ！ 
+
+
+
+
+[![Page Views Count](https://badges.toozhao.com/badges/01F7NNRQH1QEEJVY4HA933246X/blue.svg)](https://badges.toozhao.com/stats/01F7NNRQH1QEEJVY4HA933246X "Get your own page views count badge on badges.toozhao.com")
