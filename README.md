@@ -14,7 +14,7 @@
 - CC4_PriorityQueue
 - CC5_BadAttributeValueExpException
 - CC5_InstantiateTransformer
-- CC5_InstantiateTransformer
+- CC5_TemplatesImpl
 - CC6_HashMap
 - CC6_InstantiateTransformer
 - CC6_TemplatesImpl
