@@ -22,6 +22,7 @@
 - CC7_InstantiateTransformer
 - 7u21
 - 8u20
+- XStream_CVE_2013_7285
 
 
 梳理不易，欢迎issue & follow & star ！ 
