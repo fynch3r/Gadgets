@@ -28,6 +28,15 @@
             <version>3.25.0-GA</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+        <dependency>
+            <groupId>com.thoughtworks.xstream</groupId>
+            <artifactId>xstream</artifactId>
+            <version>1.4.6</version>
+        </dependency>
+
+
+
 
     </dependencies>
 
