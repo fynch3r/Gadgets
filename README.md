@@ -23,9 +23,10 @@
 - 7u21
 - 8u20
 - XStream_CVE_2013_7285
-
+- XStream_CVE_2020_26217
+- XStream_CVE_2020_26259
 
 梳理不易，欢迎issue & follow & star ！ 
 
-ps. 最近太忙了，家人们，会尽力抽空更新..
+ps. 最近太忙了，家人们，会尽力抽空更新...
 
