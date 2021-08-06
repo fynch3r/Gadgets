@@ -26,6 +26,8 @@
 - XStream_CVE_2020_26217
 - XStream_CVE_2020_26259
 - XStream_CVE_2021_21344
+- XStream_CVE_2021_21345
+- XStream_CVE_2021_21346
 
 梳理不易，欢迎issue & follow & star ！ 
 
