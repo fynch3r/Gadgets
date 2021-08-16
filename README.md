@@ -21,7 +21,7 @@
 - CC7_Hashtable
 - CC7_InstantiateTransformer
 - 7u21
-- 8u20
+- 8u20 
 - XStream_CVE_2013_7285
 - XStream_CVE_2020_26217
 - XStream_CVE_2020_26259
